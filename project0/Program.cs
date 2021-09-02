@@ -9,6 +9,8 @@ namespace project0
             Console.WriteLine("Hello World!");
             Console.WriteLine("Russki vodka balalayka");
             Console.WriteLine("putin");
+            Console.WriteLine("babul§ka");
         }
     }
 }
+c
